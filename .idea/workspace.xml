@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3916200a-2d44-4665-9646-b1a64010f0a1" name="변경" comment="Mediumish Theme 적용">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="3d812828-3a58-4c3d-be77-e3b49da70948" />
+        <option name="url" value="https://github.com/Yamoonjin/yamoonjin.github.io.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2dlJ7fpHEtqbqfJu2w1PXVbWqRg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/yamoonjin.github.io/_site/about/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript 디버그.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-220112af" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="3916200a-2d44-4665-9646-b1a64010f0a1" name="변경" comment="" />
+      <created>1710576567498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710576567498</updated>
+      <workItem from="1710576571451" duration="317000" />
+      <workItem from="1710576948646" duration="1333000" />
+      <workItem from="1710578473146" duration="2960000" />
+    </task>
+    <task id="LOCAL-00001" summary="url 설정 적용">
+      <option name="closed" value="true" />
+      <created>1710576985199</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710576985199</updated>
+    </task>
+    <task id="LOCAL-00002" summary="gitignore 파일 수정">
+      <option name="closed" value="true" />
+      <created>1710577331790</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710577331790</updated>
+    </task>
+    <task id="LOCAL-00003" summary="gitignore 파일 수정 (_site 제거)">
+      <option name="closed" value="true" />
+      <created>1710577452680</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710577452680</updated>
+    </task>
+    <task id="LOCAL-00004" summary="오류 체킹 중">
+      <option name="closed" value="true" />
+      <created>1710578070329</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710578070329</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Mediumish Theme 적용">
+      <option name="closed" value="true" />
+      <created>1710578622704</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710578622704</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Mediumish Theme 적용">
+      <option name="closed" value="true" />
+      <created>1710578693993</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710578693993</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Mediumish Theme 적용">
+      <option name="closed" value="true" />
+      <created>1710579231287</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710579231287</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Mediumish Theme 적용">
+      <option name="closed" value="true" />
+      <created>1710579440823</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710579440823</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Mediumish Theme 적용">
+      <option name="closed" value="true" />
+      <created>1710579520285</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710579520285</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Mediumish Theme 적용">
+      <option name="closed" value="true" />
+      <created>1710579605654</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710579605654</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Mediumish Theme 적용">
+      <option name="closed" value="true" />
+      <created>1710579695416</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1710579695416</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Mediumish Theme 적용">
+      <option name="closed" value="true" />
+      <created>1710579775466</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1710579775466</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Mediumish Theme 적용">
+      <option name="closed" value="true" />
+      <created>1710580404553</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1710580404553</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Mediumish Theme 적용">
+      <option name="closed" value="true" />
+      <created>1710580481152</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1710580481152</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="url 설정 적용" />
+    <MESSAGE value="gitignore 파일 수정" />
+    <MESSAGE value="gitignore 파일 수정 (_site 제거)" />
+    <MESSAGE value="오류 체킹 중" />
+    <MESSAGE value="Mediumish Theme 적용" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mediumish Theme 적용" />
+  </component>
+</project>
