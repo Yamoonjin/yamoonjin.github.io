@@ -11,6 +11,11 @@ License: https://www.wowthemes.net/freebies-license/
     padding: 1rem 0rem;
 }
 
+.nav-logo:hover {
+    filter: invert(100%);
+    transition: opacity 0.5s linear;
+}	
+
 a {
     color: #00ab6b;
     transition: all 0.2s;

@@ -2,8 +2,9 @@
 name: "Yamoonjin"
 title: "Yamoonjin"
 description: "야무진 Backend 개발자, 정운진 입니다."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo-light: 'assets/images/logo-light.png'
+logo-dark: 'assets/images/logo-dark.png'
+favicon: 'assets/images/logo-light.png'
 url: 'https://yamoonjin.github.io'
 baseurl:
 google_analytics: 'UA-46278016-1'
